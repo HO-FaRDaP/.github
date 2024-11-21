@@ -14,4 +14,4 @@ This GitHub Organisation contains the development resources for the FaRDaP™ de
 
 ## More Information
 
-More information about the Fire and rescue incident statistics is available on the GOV.Uk webiste https://www.gov.uk/government/collections/fire-statistics-monitor.
+More information about the Fire and rescue incident statistics is available on the GOV.UK webiste https://www.gov.uk/government/collections/fire-statistics-monitor.
