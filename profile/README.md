@@ -18,7 +18,7 @@ More information about the Fire and rescue incident statistics is available on t
 
 ## Copyright
 
-© Crown copyright 2024 - Crown Copyright
+© Crown copyright 2024 - [Crown Copyright](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/)
 
 This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit: nationalarchives.gov.uk/doc/open-government-licence/version/3
 
