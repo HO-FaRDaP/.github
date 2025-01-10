@@ -11,7 +11,7 @@ Overtime, the new System shall enable multiple fire datasets to be collected ele
 ## GitHub Organisations
 
 This GitHub Organisation contains the FRS developer resources for the FaRDaP™ developer community.
-There is currently one project repository available. Please ensure you have logged on with your GITHUB account, otherwise you will not be able to see or access the repository below. Please click on the link to access the fardap_developer_resources repository, where you will find resources and documentation to support development and testing. 
+There is currently one private project repository available. Please ensure you have logged on with your GITHUB account, otherwise you will not be able to see or access the repository below. Please click on the link to access the fardap_developer_resources repository, where you will find resources and documentation to support development and testing. 
 
 ## More Information
 
